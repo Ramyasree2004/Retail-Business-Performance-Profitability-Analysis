@@ -56,9 +56,9 @@ Retail-Analysis-Project/
 - Detected **seasonal demand spikes** for specific SKUs
 
 ## 📊 Deliverables
-- 📈 **Power BI Dashboard** (Blinkit_Analysis_Dashboard.pbix)
-- 💾 **SQL Queries** (`retail_queries.sql`)
-- 🐍 **Python Notebook** (`retail_profit_analysis.ipynb`)
+- 📈 **Power BI Dashboard** (Retail Business Performance & Profitability Analysis.pbix)
+- 💾 **SQL Queries** (`Retail Business Performance & Profitability Analysis.sql`)
+- 🐍 **Python Notebook** (`Retail Business Performance & Profitability Analysis.ipynb`)
 - 📑 **Report with Key Insights** (available on request)
 
 ## 💡 Key Business Value
