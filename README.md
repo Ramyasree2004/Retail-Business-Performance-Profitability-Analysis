@@ -16,11 +16,11 @@ To analyze transactional retail data and uncover:
 ```plaintext
 Retail-Analysis-Project/
 ├── PowerBI/
-│   └── Blinkit_Analysis_Dashboard.pbix
+│   └── Retail Business Performance & Profitability Analysis.pbix
 ├── SQL/
-│   └── retail_queries.sql
+│   └── Retail Business Performance & Profitability Analysis.sql
 ├── Python/
-│   └── retail_profit_analysis.ipynb
+│   └── Retail Business Performance & Profitability Analysis.ipynb
 └── README.md
 ```
 
